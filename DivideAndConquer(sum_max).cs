@@ -1,5 +1,5 @@
 ﻿class Program
-{
+{ 
     static int[] inArray = new int[3];
 
     static int sum = 0;
