@@ -5,9 +5,10 @@
     static int sum = 0;
     static int j   = 0;
     static int max = Int32.MinValue;
-
-    
+      
+     
     static void Main(string[] args)
+
     {
         //======================= Факториал =======================//
         var rand = new Random();
